@@ -1,19 +1,61 @@
-<h1 align="center">Hi 👋, I'm Sujan</h1>
-<h3 align="center">Code it</h3>
+# Hi there, I'm Sujan Rathod! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan-coder-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="sujan-coder-sudo" /> </p>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sujan-coder-sudo)  
+Welcome to my GitHub profile! I'm a backend developer with a passion for learning and implementing new technologies.
 
-- 🌱 I’m currently learning **Numpy,Pandas,Seaborn and matplotlib**
+---
 
-- 📫 How to reach me **sujans2020@gmail.com**
+### 👨‍💻 About Me:
+- **Backend Developer** skilled in **Java**, **C**, and **Python**
+- Member of **DevTrack** and **ED Club**
+  ![DevTrack Logo](https://path-to-your-club-logo-image) ![ED Club Logo](https://path-to-your-club-logo-image)
+- Always eager to expand my knowledge and enhance my skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujan rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan rathod" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmesujanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmesujanr" height="30" width="40" /></a>
+---
+
+### 🛠 My Skills:
+- **Backend Development**: Django, REST API
+- **Data Analysis**: NumPy, Pandas, Seaborn, Matplotlib
+- **Machine Learning**: Currently exploring **scikit-learn**  
+  ![Django](https://img.shields.io/badge/Backend-Django-green?style=flat-square&logo=django) 
+  ![Numpy](https://img.shields.io/badge/Library-Numpy-blue?style=flat-square&logo=numpy) 
+  ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?style=flat-square&logo=pandas) 
+  ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-red?style=flat-square&logo=seaborn) 
+  ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-purple?style=flat-square&logo=matplotlib)
+
+---
+
+### 🔥 GitHub Stats & Trophies:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujan-coder-sudo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujan-coder-sudo&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan-coder-sudo&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan-coder-sudo&" alt="sujan-coder-sudo" /></p>
+### 🚀 Top Skills:
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-coder-sudo&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me:
+- **[Instagram](https://www.instagram.com/itsmesujanr)**
+- **[LinkedIn](https://www.linkedin.com/in/sujan-rathod)**
+- **Discord**: coolsujan27
+- **[HackerRank](https://www.hackerrank.com/sujan_rathod)**
+
+![Twitter Badge](https://img.shields.io/twitter/follow/itsmesujanr?style=social)
+
+---
+
+### 📖 Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*This section displays the latest articles from my [Dev.to](https://dev.to/) and [Medium](https://medium.com/) blogs, as well as my personal blog (GitHub Actions powered).*
+
+---
+
+*Thanks for stopping by! Feel free to explore my repos and connect with me on the platforms above!* 😊
+
