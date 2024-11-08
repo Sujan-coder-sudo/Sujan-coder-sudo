@@ -21,10 +21,11 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
   <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" width="100" height="100"/>
   <img src="https://img.icons8.com/color/96/000000/numpy.png" alt="NumPy" width="100" height="100"/>
   <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="Pandas" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/seaborn.png" alt="Seaborn" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/matplotlib.png" alt="Matplotlib" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/scikit-learn.png" alt="Scikit-Learn" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Seaborn_logo.svg" alt="Seaborn" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="100" height="100"/>
 </p>
+
 
 
 
