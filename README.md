@@ -18,13 +18,14 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 - **Machine Learning**: Currently exploring **scikit-learn**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Seaborn-%236CB2EB.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%230a2d7c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/96/000000/numpy.png" alt="NumPy" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="Pandas" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/96/000000/seaborn.png" alt="Seaborn" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/96/000000/matplotlib.png" alt="Matplotlib" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/96/000000/scikit-learn.png" alt="Scikit-Learn" width="100" height="100"/>
 </p>
+
 
 
 ---
