@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 ### 👨‍💻 About Me:
 - **Backend Developer** skilled in **Java**, **C**, and **Python**
 - Member of **DevTrack** and **ED Club**
-  ![DevTrack Logo](111211012.png) ![ED Club Logo](ENTREPENURSHIP (1).png)
+  ![DevTrack Logo](111211012.png) ![ED Club Logo](ENTREPENURSHIP(1).png)
 - Always eager to expand my knowledge and enhance my skills
 
 ---
