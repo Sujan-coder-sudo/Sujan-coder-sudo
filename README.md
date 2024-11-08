@@ -6,9 +6,31 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 ---
 
 ### 👨‍💻 About Me:
-- **Backend Developer** skilled in **Java**, **C**, and **Python**
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+- **Backend Developer** skilled in **Django**
 - Member of **DevTrack** and **ED Club**
-- Always eager to expand my knowledge and enhance my skills
+- **Programming Languages Known**:
+  
+  <p align="left">
+    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
+    <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="60" height="60"/>
+    <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="60" height="60"/>
+  </p>
+
+- **Operating Systems**:
+  
+  <p align="left">
+    <img src="https://img.icons8.com/color/96/000000/windows-10.png" alt="Windows" width="60" height="60"/>
+    <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux" width="60" height="60"/>
+  </p>
+
+- Always eager to expand my knowledge and enhance my skills, continually exploring new technologies to stay at the cutting edge.
+
+<p align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Coding Character" width="150"/>
+</p>
 
 ---
 
