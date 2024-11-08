@@ -1,6 +1,6 @@
 # Hi there, I'm Sujan Rathod! 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sujan-coder-sudo)  
+
 Welcome to my GitHub profile! I'm a backend developer with a passion for learning and implementing new technologies.
 
 ---
@@ -29,8 +29,9 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 - Always eager to expand my knowledge and enhance my skills, continually exploring new technologies to stay at the cutting edge.
 
 <p align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Coding Character" width="150"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Character" width="150"/>
 </p>
+
 
 ---
 
