@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 ### 👨‍💻 About Me:
 - **Backend Developer** skilled in **Java**, **C**, and **Python**
 - Member of **DevTrack** and **ED Club**
-  ![DevTrack Logo](111211012.png) ![ED Club Logo](ENTREPENURSHIP(1).png)
 - Always eager to expand my knowledge and enhance my skills
 
 ---
@@ -16,12 +15,17 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 ### 🛠 My Skills:
 - **Backend Development**: Django, REST API
 - **Data Analysis**: NumPy, Pandas, Seaborn, Matplotlib
-- **Machine Learning**: Currently exploring **scikit-learn**  
-  ![Django](https://img.shields.io/badge/Backend-Django-green?style=flat-square&logo=django) 
-  ![Numpy](https://img.shields.io/badge/Library-Numpy-blue?style=flat-square&logo=numpy) 
-  ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?style=flat-square&logo=pandas) 
-  ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-red?style=flat-square&logo=seaborn) 
-  ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-purple?style=flat-square&logo=matplotlib)
+- **Machine Learning**: Currently exploring **scikit-learn**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Seaborn-%236CB2EB.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%230a2d7c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+</p>
+
 
 ---
 
