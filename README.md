@@ -8,6 +8,10 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 ### 👨‍💻 About Me:
 
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Character" width="200"/>
+</p>
+
 
 - **Backend Developer** skilled in **Django**
 - Member of **DevTrack** and **ED Club**
@@ -28,9 +32,6 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 
 - Always eager to expand my knowledge and enhance my skills, continually exploring new technologies to stay at the cutting edge.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Character" width="150"/>
-</p>
 
 
 ---
