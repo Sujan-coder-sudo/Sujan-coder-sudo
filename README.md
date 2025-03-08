@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 
 
 - **Backend Developer** skilled in **Django**
-- Member of **DevTrack** and **ED Club**
 - **Programming Languages Known**:
   
   <p align="left">
