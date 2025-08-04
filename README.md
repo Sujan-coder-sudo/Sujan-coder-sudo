@@ -43,11 +43,7 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 <p align="left">
   <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" width="100" height="100"/>
   <img src="https://img.icons8.com/color/96/000000/api.png" alt="Django REST Framework" width="100" height="100"/> <!-- API icon as a placeholder for Django REST Framework -->
-  <img src="https://img.icons8.com/color/96/000000/numpy.png" alt="NumPy" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="Pandas" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/combo-chart.png" alt="Seaborn" width="100" height="100"/> <!-- Generic visualization icon for Seaborn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="100" height="100"/>
+  
 </p>
 
 
