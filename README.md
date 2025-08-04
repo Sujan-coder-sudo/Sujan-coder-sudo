@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for learnin
 ### 🛠 My Skills:
 - **Backend Development**: Django, Django REST Framework, REST API
 - **Data Analysis**: NumPy, Pandas, Seaborn, Matplotlib
-- **Machine Learning**: Currently exploring **scikit-learn**
 
 <p align="left">
   <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" width="100" height="100"/>
