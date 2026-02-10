@@ -50,9 +50,7 @@ I build APIs assuming failure, abuse, and scale.
 
 ### GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujan-coder-sudo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sujan-coder-sudo&show_icons=true&theme=matrix&hide_border=true&cache_id=12345" />
 
 ---
 
