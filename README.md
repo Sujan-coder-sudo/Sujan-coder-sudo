@@ -51,14 +51,11 @@ I build APIs assuming failure, abuse, and scale.
 ### 🔥 GitHub Stats & Trophies:
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujan-coder-sudo&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujan-coder-sudo&theme=onedark" alt="GitHub Trophies" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan-coder-sudo&theme=radical" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujan-coder-sudo&show_icons=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujan-coder-sudo&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan-coder-sudo&theme=radical" />
 </p>
+
 
 ---
 
