@@ -1,4 +1,4 @@
-# Hi there, I'm Sujan Rathod! 👋
+# Hi there, I'm Charvik Rathod! 👋
 
 
 Welcome to my GitHub profile! I'm a backend developer with a passion for learning and implementing new technologies.
